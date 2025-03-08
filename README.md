@@ -1,47 +1,47 @@
-📊 Sales Performance Dashboard
+# 📊 Sales Performance Dashboard
 
 A Power BI dashboard that provides interactive insights into 📈 sales trends, 🛍️ product performance, 👥 customer segmentation, and 💳 payment distribution. It leverages DAX, time intelligence, and interactive visuals to drive data-driven decision-making.
 
-🚀 Overview
+## 🚀 Overview
 
 This dynamic dashboard enables stakeholders to track key sales metrics, identify trends, and optimize business performance through data analytics.
 
 
-🔹 Key Features:
+## 🔹 Key Features:
 
-✅ Sales Trends Analysis – Track monthly & yearly sales, spot seasonal patterns 📅
+- Sales Trends Analysis – Track monthly & yearly sales and spot seasonal patterns.
 
-✅ Product Performance – Identify top-selling & underperforming products 🏆
+- Product Performance – Identify top-selling & underperforming products.
 
-✅ Customer Segmentation – Analyze demographics, new vs. repeat buyers 👥
+- Customer Segmentation – Analyze demographics and new vs. repeat buyers.
 
-✅ Payment Mode Analysis – Evaluate Cash, Online, and Credit transactions 💳
+- Payment Mode Analysis – Evaluate Cash, Online, and Credit transactions.
 
-✅ Geographical Sales Insights – Visualize region-based sales performance 🌍
-
-
-🛠️ Data Model:
-
-📌 Sales Table – Transaction details (date, product, customer, quantity, payment type)
-
-📌 Product Table – Product info (category, price, brand)
-
-📌 Customer Table – Customer demographics & segmentation
+- Geographical Sales Insights – Visualize region-based sales performance.
 
 
-⚡ Power BI Features:
+## 🛠️ Data Model:
 
-🔹 DAX Measures – Custom calculations for total sales, AOV, growth %
+- Sales Table – Transaction details (date, product, customer, quantity, payment type)
 
-🔹 Time Intelligence – Functions like TOTALYTD, SAMEPERIODLASTYEAR, DATEADD ⏳
+- Product Table – Product info (category, price, brand)
 
-🔹 Interactive Visuals – Slicers, drill-throughs & filters for deeper insights 🔍
-
-🔹 KPIs & Conditional Formatting – Dynamic performance indicators 📊
+- Customer Table – Customer demographics & segmentation
 
 
-🎯 Conclusion
+## ⚡ Power BI Features:
 
-This Sales Performance Dashboard is a powerful tool for monitoring sales, understanding customer behavior, and optimizing product strategies. By leveraging DAX, time intelligence, and interactive visuals, it delivers deep insights to drive business decisions.
+- DAX Measures – Custom calculations for total sales, AOV, and growth %.
 
-🚀 Future enhancements can include forecasting, machine learning integration, and advanced customer segmentation. This project showcases expertise in data modeling, visualization, and business intelligence using Power BI.
+- Time Intelligence – Functions like TOTALYTD, SAMEPERIODLASTYEAR, DATEADD.
+
+- Interactive Visuals – Slicers, drill-throughs & filters for deeper insights.
+
+- KPIs & Conditional Formatting – Dynamic performance indicators.
+
+
+## 🎯 Conclusion
+
+This Sales Performance Dashboard is a powerful tool for monitoring sales, understanding customer behaviour, and optimizing product strategies. By leveraging DAX, time intelligence, and interactive visuals, it delivers deep insights to drive business decisions.
+
+🚀 Future enhancements can include forecasting, machine learning integration, and advanced customer segmentation. This project showcases expertise in data modelling, visualization, and business intelligence using Power BI.
